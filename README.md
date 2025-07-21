@@ -1,1 +1,1 @@
-Drowsiness-Detection-System-using-AI
+Developed a real-time system utilizing facial landmark detection to identify drowsiness and yawning. Implemented audible alerts and real-time video processing, showcasing skills in computer vision and Python.
